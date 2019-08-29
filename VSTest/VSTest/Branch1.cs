@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace VSTest
 {
-    class Program
+    class Branch1
     {
-        static void Main(string[] args)
-        {
-
-        }
     }
 }
